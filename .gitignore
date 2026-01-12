@@ -1,0 +1,24 @@
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# OS / misc
+.DS_Store
+*.log
+
+# Local data
+*.sqlite
+*.sqlite3
+*.db
+*.env
